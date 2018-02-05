@@ -3,7 +3,7 @@
 ## Required valid info: 
 Questions | Examples
 ------------ | -------------
-The servers contact info | Contact info: Email something@example.com 
+The servers contact info | Contact info: Email: something@example.com Invite: https://discord.gg/VkyJUS
 Server owner | Owner: Discord Id: (252164337249157120) Discord username: name#3810
 What role position | Role position: I was a help rank 4
 How long you were staff | Date: 5 months 
