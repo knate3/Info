@@ -11,7 +11,7 @@ Count of users in that server | Count: 234
 
 
 ## Invalid info: 
-Answers | Examples
+Questions | Examples
 ------------ | -------------
 The servers contact info | dunno
 Server owner | name
